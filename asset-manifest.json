@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/GiftShop/static/css/main.94713458.chunk.css",
+    "main.js": "/GiftShop/static/js/main.53fe5a48.chunk.js",
+    "main.js.map": "/GiftShop/static/js/main.53fe5a48.chunk.js.map",
+    "runtime-main.js": "/GiftShop/static/js/runtime-main.36ac7144.js",
+    "runtime-main.js.map": "/GiftShop/static/js/runtime-main.36ac7144.js.map",
+    "static/js/2.7c09a783.chunk.js": "/GiftShop/static/js/2.7c09a783.chunk.js",
+    "static/js/2.7c09a783.chunk.js.map": "/GiftShop/static/js/2.7c09a783.chunk.js.map",
+    "index.html": "/GiftShop/index.html",
+    "static/css/main.94713458.chunk.css.map": "/GiftShop/static/css/main.94713458.chunk.css.map",
+    "static/js/2.7c09a783.chunk.js.LICENSE.txt": "/GiftShop/static/js/2.7c09a783.chunk.js.LICENSE.txt",
+    "static/media/Slider.css": "/GiftShop/static/media/Aparajita.9b0f6831.ttf",
+    "static/media/Featured1.212ff670.png": "/GiftShop/static/media/Featured1.212ff670.png",
+    "static/media/Featured2.1314bcad.png": "/GiftShop/static/media/Featured2.1314bcad.png",
+    "static/media/Featured3.fd20777f.png": "/GiftShop/static/media/Featured3.fd20777f.png",
+    "static/media/Featured4.871e0f29.png": "/GiftShop/static/media/Featured4.871e0f29.png",
+    "static/media/NewProd1.4b7881b5.png": "/GiftShop/static/media/NewProd1.4b7881b5.png",
+    "static/media/item.35bbcf90.png": "/GiftShop/static/media/item.35bbcf90.png",
+    "static/media/jewerly1.f0b3fa0a.png": "/GiftShop/static/media/jewerly1.f0b3fa0a.png",
+    "static/media/jewerly2.fa73860a.png": "/GiftShop/static/media/jewerly2.fa73860a.png",
+    "static/media/kid.7028dc96.png": "/GiftShop/static/media/kid.7028dc96.png",
+    "static/media/logo.8f758d7b.png": "/GiftShop/static/media/logo.8f758d7b.png",
+    "static/media/men.d30771b6.png": "/GiftShop/static/media/men.d30771b6.png",
+    "static/media/newProd2.77681857.png": "/GiftShop/static/media/newProd2.77681857.png",
+    "static/media/newProd3.0bf21683.png": "/GiftShop/static/media/newProd3.0bf21683.png",
+    "static/media/women.650291e2.png": "/GiftShop/static/media/women.650291e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36ac7144.js",
+    "static/js/2.7c09a783.chunk.js",
+    "static/css/main.94713458.chunk.css",
+    "static/js/main.53fe5a48.chunk.js"
+  ]
+}
