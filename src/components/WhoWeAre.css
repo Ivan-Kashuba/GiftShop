@@ -1,0 +1,28 @@
+.weAre__info {
+  border-bottom: 1px solid #b9b9b9;
+  margin: 25px 0;
+}
+.weAre__img {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 38px;
+  width: 100%;
+}
+.weAre__text {
+  margin-left: 20px;
+  line-height: 25px;
+}
+.weAre__button {
+  text-align: center;
+  margin: 45px 0;
+}
+
+.weAre__button a {
+  background-color: #05aecc;
+  text-decoration: none;
+  color: white;
+  width: 100%;
+  padding: 20px 300px;
+  text-align: center;
+  font-size: 28px;
+}

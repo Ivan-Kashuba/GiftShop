@@ -1,0 +1,33 @@
+.ProductsFlex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #b9b9b9;
+}
+.arrows {
+  display: flex;
+  margin-bottom: -30px;
+}
+.arrow {
+  background-color: #3c3c3c;
+  padding: 40px;
+  margin-left: 1px;
+}
+.arrow:hover {
+  background-color: #05aecc;
+}
+
+.products__text {
+  padding-top: 70px;
+  font-size: 30px;
+  margin-left: 30px;
+  color: #00a1be;
+  padding-bottom: 30px;
+  border-bottom: 1px solid red;
+}
+
+.newProducrImages {
+  margin-top: 25px;
+  display: flex;
+  justify-content: space-between;
+}

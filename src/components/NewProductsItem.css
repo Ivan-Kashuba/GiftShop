@@ -1,0 +1,18 @@
+.newImg__content {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  opacity: 0;
+  z-index: 2;
+}
+
+.newImgItem {
+  position: relative;
+}
+
+.newImgItem:hover .newImg__content {
+  opacity: 1;
+}
+.newImgItem:hover .ItemProdImg {
+  filter: brightness(40%);
+}
